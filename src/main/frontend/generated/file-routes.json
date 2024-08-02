@@ -1,0 +1,19 @@
+[
+  {
+    "route": "",
+    "params": {},
+    "title": "div",
+    "children": [
+      {
+        "route": "",
+        "params": {},
+        "title": "Index"
+      },
+      {
+        "route": "Chat",
+        "params": {},
+        "title": "Chat"
+      }
+    ]
+  }
+]
